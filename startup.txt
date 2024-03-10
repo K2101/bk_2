@@ -1,0 +1,2 @@
+1. located to backend directory and run <npm i>, the backend should serve at port :8080.
+2. located to frontend and run <npm i>, the frontend will serve at port: 3000.
